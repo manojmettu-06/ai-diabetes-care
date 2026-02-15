@@ -2,7 +2,7 @@
 
 AI Diabetes Care Assistant is a Machine Learning-based web application that predicts diabetes risk and provides basic health recommendations through an interactive dashboard.
 
-🔗 **Live App:** [Paste your Streamlit link here]
+🔗 **Live App:** https://ai-diabetes-care-mzwn6ccntm4sf9azxzq3vl.streamlit.app/
 
 ---
 
