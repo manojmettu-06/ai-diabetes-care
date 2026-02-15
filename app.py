@@ -99,3 +99,13 @@ def chatbot_response(text):
 if user_input:
     response = chatbot_response(user_input)
     st.success(response)
+
+
+st.markdown("---")
+
+st.markdown("""
+    <div style='text-align: center; padding: 15px; font-size:14px; color: gray;'>
+        Developed with ❤️ by <b>Manoj Mettu</b> <br>
+        © 2026 AI Diabetes Care Assistant
+    </div>
+""", unsafe_allow_html=True)
